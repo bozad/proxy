@@ -4,7 +4,7 @@ An example nginx config that serves as a proxy to Mixpanel's Ingestion API and J
 
 ## Installation
 
-There are a few ways you can use this repo to deploy a server that can be use to proxy Mixpanel API requests: 
+There are a few ways you can use this repo to deploy a serer that can be use to proxy Mixpanel API requests: 
 
 1. **one-click deploy** to your cloud provider
 2. **build a docker image** and run it on your own servers
